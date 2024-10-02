@@ -1,5 +1,4 @@
 Visit the demo.
-
 [![The Demo](https://i.imgur.com/YzuOQ6T.png)](https://paste.oddprotocol.org)
 
 # KISSmo Paste
